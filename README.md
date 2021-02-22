@@ -30,8 +30,8 @@ Can be used along side the Framework or as a Standalone
 Currently we offer a few solutions for Music you may use hosted through our CDN that can be assigned via our Custom Domain Endpoint. 
 You're also free to use any song of your choice as long as its a link that ends with ".mp3"
 
-### Currently Available Songs
-* [Full Song List](./SONGS.md)
+### Full Song List
+* [Click Me](./SONGS.md)
 
 ## Request a Song to be Added
 1. Join our [Discord](https://toxicfx.org/discord) 
