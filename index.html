@@ -13,7 +13,7 @@
 </head>
 
 <body>
-    <iframe src="https://toxicfx.org/"></iframe>
+    <iframe src="https://tfx-loading-website.herokuapp.com/"></iframe>
 </body>
 
 <head>
@@ -416,7 +416,10 @@
         }
     </style>
     <body>
-        <div class="container">
+
+      <audio id="loading" autoplay loop ><source src="https://loading.toxicfx.org/music/human_ragnbone.mp3" type="audio/mp3"></audio>
+
+        <!-- <div class="container">
             <div class="la-pacman la-dark la-3x" style="color: #f6d860">
                 <div></div>
                 <div></div>
@@ -425,15 +428,46 @@
                 <div></div>
                 <div></div>
             </div>
-        </div>
+        </div> -->
+        <div id="player"></div>
         <div class="letni">
             <div class="loadbar"><div class="thingy"></div></div>
         </div>
+
+        <script>
+            var tag = document.createElement('script')
+
+            tag.src = "https://youtube.com/iframe_api";
+
+            var firstScriptTag = document.getElementByTagName('script')[0];
+
+            firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+            var player;
+
+            function onYouTubeIframeAPIReady() {
+
+                player = new YT.Player('player', {
+                    height: '390',
+                    width: '640',
+                    videoId: '' + videoID,
+                    events : {
+                        'onReady': onPlayerReady
+                    }
+                });
+            }
+
+            function onPlayerReady(event) {
+                event.target.setVolume(videoVolume);
+                event.target.playVideo();
+            }
+        </script>
+
         <script type="text/javascript">
         /**
         * This will actually restart the loading bar a lot, Making multiple loading bars is an exercise to the reader... for now
         * For a set of possible events see: https://github.com/citizenfx/cfx-client/blob/up-master/components/loading-screens-five/src/LoadingScreens.cpp
-        */ 
+        */
         var count = 0;
         var thisCount = 0;
 
