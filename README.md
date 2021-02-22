@@ -13,11 +13,23 @@ Can be used along side the Framework or as a Standalone
 ---
 
 ## Music Requests
-* Coming Soon
+Currently we offer a few solutions for Music you may use hosted through our CDN that can be assigned via our Custom Domain Endpoint.
+
+### Currently Available Songs
+* Loud and Heavy - Cody Jinks
+Link: `http://loading.toxicfx.org/music/loud_and_heavy.mp3 `
+
+* Human - Rag n Bone
+Link: `http://loading.toxicfx.org/music/human_ragnbone.mp3 `
+
+## Request a Song to be Added
+1. Join our [Discord](https://toxicfx.org/discord) 
+2. Open a ticket in the `ticket-panel` channel.
+3. In the Ticket Channel that is opened for you state why you are opening a ticket.
 
 ---
 
-## Request a Custom Loading Page
+## Custom Loading Page Requests
 Currently the Loading Page looks like this:
 
 ![Sample 1](https://media.discordapp.net/attachments/734686866690932767/813252585673850901/LoadingSample_2.png)
@@ -28,10 +40,13 @@ You can Contact us to Request a Custom One.
 ### Things we Can Add
 * Staff List
 * Partner List
-Etc 
+And more. 
 
 ### Benefits of a Custom Loading Page
 * Custom Domain assigned to your community for the IFrame `https://loading.toxicfx.org/communityName`
 * It's 100% Free. We will NEVER CHARGE
 
-To request a custom page to be made for your community please join our [Discord](https://toxicfx.org/discord) and open a ticket in the `ticket-panel` channel.
+### Request a Custom Loading Page
+1. Join our [Discord](https://toxicfx.org/discord) 
+2. Open a ticket in the `ticket-panel` channel.
+3. In the Ticket Channel that is opened for you state why you are opening a ticket.
