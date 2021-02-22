@@ -33,7 +33,7 @@ You're also free to use any song of your choice as long as its a link that ends 
 ### Full Song List
 * [Click Me](./SONGS.md)
 
-## Request a Song to be Added
+### Request a Song to be Added
 1. Join our [Discord](https://toxicfx.org/discord) 
 2. Open a ticket in the `ticket-panel` channel.
 3. In the Ticket Channel that is opened for you state why you are opening a ticket.
