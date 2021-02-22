@@ -11,3 +11,11 @@ Can be used along side the Framework or as a Standalone
 * Coming Soon 
 
 ---
+
+## Music Requests
+* Coming Soon
+
+---
+
+## Request a Custom Loading Page
+* Coming Soon
