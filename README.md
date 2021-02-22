@@ -18,4 +18,9 @@ Can be used along side the Framework or as a Standalone
 ---
 
 ## Request a Custom Loading Page
+Currently the Loading Page looks like this:
+
+![Sample 1](https://media.discordapp.net/attachments/734686866690932767/813252585673850901/LoadingSample_2.png)
+![Sample 2](https://media.discordapp.net/attachments/734686866690932767/813252795833778176/LoadingSample2_2.png)
+
 * Coming Soon
