@@ -33,3 +33,5 @@ Etc
 ### Benefits of a Custom Loading Page
 * Custom Domain assigned to your community for the IFrame `https://loading.toxicfx.org/communityName`
 * It's 100% Free. We will NEVER CHARGE
+
+To request a custom page to be made for your community please join our [Discord](https://toxicfx.org/discord) and open a ticket in the `ticket-panel` channel.
