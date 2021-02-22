@@ -1,10 +1,10 @@
 -- Version Checking down here, better don't touch this
 -- Will throw an error if your version is outdated
-local CurrentVersion = '1.0.1'
-local GithubResourceName = 'Community Commands'
+local CurrentVersion = '2.0.0'
+local GithubResourceName = 'tfx_loadingscreen'
 
-PerformHttpRequest('https://raw.githubusercontent.com/toxic-developer/CommunityCommands/master/' .. GithubResourceName .. '/VERSION', function(Error, NewestVersion, Header)
-	PerformHttpRequest('https://raw.githubusercontent.com/toxic-developer/CommunityCommands/master/' .. GithubResourceName .. '/CHANGES', function(Error, Changes, Header)
+PerformHttpRequest('https://raw.githubusercontent.com/TFX-Framework/tfx_loadingscreen/main/version', function(Error, NewestVersion, Header)
+	PerformHttpRequest('https://raw.githubusercontent.com/TFX-Framework/tfx_loadingscreen/main/changes', function(Error, Changes, Header)
 		print('\n')
 		print('##############')
 		print('## ' .. GetCurrentResourceName())
@@ -13,10 +13,10 @@ PerformHttpRequest('https://raw.githubusercontent.com/toxic-developer/CommunityC
 		print('## Newest Version: ' .. NewestVersion)
 		print('##')
 		if CurrentVersion ~= NewestVersion then
-                        print('## Community Commands Outdated')
+                        print('## TFX Loading Screen Outdated')
 			print('## Check the GitHub releases')
 			print('## For the newest Version!')
-                        print('## github.com/TheRealToxicDev/FiveM-Community-Commands/releases')
+                        print('## github.com/TFX-Framework/tfx_loadingscreen/releases')
 			print('##############')
 			print('CHANGES: ' .. Changes)	
                  else
