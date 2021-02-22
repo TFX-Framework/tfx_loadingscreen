@@ -31,4 +31,4 @@ You can Contact us to Request a Custom One.
 Etc 
 
 ### Benefits of a Custom Loading Page
-* Custom Domain assigned to your community for the IFrame `https://loading.toxicfx.org/communityName
+* Custom Domain assigned to your community for the IFrame `https://loading.toxicfx.org/communityName`
