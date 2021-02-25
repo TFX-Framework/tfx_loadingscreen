@@ -1,5 +1,5 @@
 # ToxicFX Loading Screen
-![TFX Logo](https://github.com/TFX-Framework/tfx_main/blob/main/images/33700C5B-292E-41CF-85A7-C3FCE9DC8408.png)
+![TFX Logo](https://media.discordapp.net/attachments/734686866690932767/814389936698032138/image0.jpg)
 
 A nice Customizeable Loading Screen with IFrame and Music Support.
 
