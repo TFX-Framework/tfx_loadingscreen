@@ -61,3 +61,9 @@ And more.
 1. Join our [Discord](https://toxicfx.org/discord) 
 2. Open a ticket in the `ticket-panel` channel.
 3. In the Ticket Channel that is opened for you state why you are opening a ticket.
+
+---
+
+## Live Demo
+I am working on setting up a Live Demo of the loading screen for now I hope this helps.
+• ![](https://streamable.com/fa7g1p)
