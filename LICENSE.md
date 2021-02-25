@@ -2,7 +2,7 @@
 <p align="center">Terms Used</p>
 
 - Toxic ("Author", "Coder", "Creator", "Developer" "Toxic Dev", "TheRealToxicDev", "Me", "My")
-- Content ("framework", "code", "codes", "assets", "source", "sources")
+- Content ("loadingscreen", "script", "code", "codes", "assets", "source", "sources", "resource")
 - User ("You", "User", "they", "them", "their")
 ---
 <h2 align="center">Introduction</h2>
@@ -10,9 +10,8 @@
 
 ---
 ### Contact:
-+ Toxics Discord: ☣ Tσxιƈ Dҽʋ ☣#7308 (510065483693817867)
-+ Discord Server: https://redirect.toxicdev.me/discord
-+ Toxics Email: contact@toxicdev.me
++ Discord: [Join Here](https://toxicfx.org/discord)
++ Email: legal@toxicfx.org
 ---
 
 ### Allowed
@@ -35,15 +34,16 @@
 </h2>
 
 ### Approved hosting locations
-- [My Github](https://github.com/TheRealToxicDev)
-- [My Org](https://github.com/toxic-developer)
-- [My Old GitHub](https://github.com/GrimDesignsFiveM)
+- [Github](https://github.com/TFX-Framework/tfx_loadingscreen)
 
 ---
 
 ### NO OTHER WEBSITE OR DEVELOPER MAY USE THIS CODE  WITHOUT EXPLICIT PERMISSION FROM THE AUTHOR(s)
 
 ---
+
 **These terms apply to all files in this repository.**
+
 ---
-Copyright © 2021 - Toxic Dev | Toxic Development
+
+Copyright © 2021 - ToxicFX | [Toxic Dev](https://toxicdev.me)
