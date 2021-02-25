@@ -5,6 +5,8 @@ A nice Customizeable Loading Screen with IFrame and Music Support.
 
 Can be used along side the Framework or as a Standalone
 
+- Original Idea inspired by [@jamessc0tt](https://github.com/jamessc0tt)
+
 ---
 
 ## Live Demo
