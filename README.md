@@ -7,6 +7,11 @@ Can be used along side the Framework or as a Standalone
 
 ---
 
+## Live Demo
+* [View the Demo](https://api.toxicfx.org/v1/loading/demo)
+
+---
+
 ## Installation
 1. Add the “tfx_loadingscreen” folder to your Server Resources
 2. Append “start tfx_loadingscreen” in your server.cfg
@@ -63,7 +68,3 @@ And more.
 3. In the Ticket Channel that is opened for you state why you are opening a ticket.
 
 ---
-
-## Live Demo
-I am working on setting up a Live Demo of the loading screen for now I hope this helps.
-* https://streamable.com/fa7g1p
