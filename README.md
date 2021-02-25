@@ -66,4 +66,4 @@ And more.
 
 ## Live Demo
 I am working on setting up a Live Demo of the loading screen for now I hope this helps.
-• ![](https://streamable.com/fa7g1p)
+* https://streamable.com/fa7g1p
