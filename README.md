@@ -31,6 +31,16 @@ Can be used along side the Framework or as a Standalone
 ```
 4. Replace the src link with the link to your song from below.
 
+
+### Changing the Loading Screen Page
+1. Head to Line 16
+2. Replace the Iframe SRC Link with your Custom Page Link
+3. Save and Profit
+```html
+<audio id="loading" autoplay loop ><source src="https://api.toxicfx.org/music/human_ragnbone.mp3" type="audio/mp3"></audio>
+```
+4. Replace the src link with the link to your song from below.
+
 ---
 
 ## Music Requests
